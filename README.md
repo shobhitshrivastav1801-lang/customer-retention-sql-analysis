@@ -14,8 +14,11 @@ Identify high-value customers using Pareto principle
 
 Dataset Structure
 users
+
     user_id
+    
     signup_date
+    
     city
 orders
     order_id
