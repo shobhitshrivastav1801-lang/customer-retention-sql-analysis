@@ -1,4 +1,5 @@
 Customer Retention & Revenue Performance Analysis (SQL Project)
+
 📖 Business Problem
 
 The company observed stagnant revenue growth despite increasing user sign-ups.
